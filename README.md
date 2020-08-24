@@ -1,4 +1,4 @@
-# nuxt-ts-4
+# Nuxt Tailwindcss Typescript 4
 
 ## Build Setup
 
